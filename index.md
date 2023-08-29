@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-**Utkarsh's First CS193 Homework**
+##**Utkarsh's First CS193 Homework**##
 ### Things I like about CS193 class:
 - The instructors :)
 - Useful insights into programming tools
